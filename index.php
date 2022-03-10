@@ -9,12 +9,7 @@ if(isset($_SESSION["table_empty_error"])) {
     $table_empty_error = $_SESSION["table_empty_error"];
 }
 
-// if user has already signed in.
-//if(isset($_SESSION["login_error"])) {
-//    if($_SESSION["login_error"] === 0) {
-//        header("Location:Welcome/welcome.php");
-//    }
-//}
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
