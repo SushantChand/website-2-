@@ -14,7 +14,7 @@ if(isset($_SESSION["table_empty_error"])) {
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>gufgaaf - chiya guff</title>
+        <title>taktak</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width , initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="style.css">
@@ -52,7 +52,7 @@ if(isset($_SESSION["table_empty_error"])) {
                             <div class="password-container">
                                 <input type="password" placeholder="Password" class="password" name="password">
                                 <div class="standard-password-tooltip">
-                                    <p>Standard Password : It should be of 8 to 15 characters. It's mandatory to use at least one Capital Letter , one Number , one Special Characters.</p>
+                                    <p>Standard Password .</p>
                                 </div>
                             </div>
 
